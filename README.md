@@ -17,3 +17,17 @@ Demonstrate:
 4. Open a Pull Request (PR)
 5. Review and merge the PR
 6. Resolve conflicts if they appear
+
+## Detailed Workflow Explanation
+
+Our team follows this professional Git workflow:
+
+1. Create an Issue for each task.
+2. Assign the Issue to a team member.
+3. Create a feature branch from main.
+4. Make changes and commit with a clear message.
+5. Push the branch to GitHub.
+6. Open a Pull Request (PR).
+7. Another team member reviews the PR.
+8. Merge the PR into main.
+9. Close the related Issue automatically using "Closes #IssueNumber".
